@@ -19,12 +19,26 @@ Technologies used
 
 
 -Truffle
+
+
 -React js
+
+
 -OpenZeppelin library
+
+
 -Ganache
+
+
 -Metamask
+
+
 -IPFS NFTStorage
 
 Resources
+
+
 -https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon
+
+
 -https://www.youtube.com/watch?v=O3BmHGNAGhM&list=PLjsf0I0Ic9-EWhT_63gCb_C4Z2usKFCzD&index=20
