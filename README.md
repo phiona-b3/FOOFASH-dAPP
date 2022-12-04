@@ -6,8 +6,6 @@ This is a decentralised version of a social media app used to create posts about
 This app will be owned by a food delivery organisation called FOODIE GOODIE.
 
 
-Only members who order from the food app will be given access to post their favorite meals so that they can enjoy the benefits of using the app.
-
 
 DEMO
 
