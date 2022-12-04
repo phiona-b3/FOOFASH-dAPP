@@ -2,7 +2,7 @@ FOOFASH dAPP
 
 
 
-This is a decentralised version of a social medai app used to create posts about food, fashion trends and in so be able to earn NFTs.
+This is a decentralised version of a social media app used to create posts about food, fashion trends and in so be able to earn NFTs.
 This app will be owned by a food devilery organisation called FOODIE GOODIE.
 
 
