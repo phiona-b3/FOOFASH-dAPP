@@ -15,6 +15,18 @@ This is how the food delivery app looks like;
 
 ![image](https://user-images.githubusercontent.com/102053232/205502349-f67b40d6-5ad9-4d45-8ec5-371c858368dc.png)
 
+
+
+When you make a purchase or prior to making a purchase, a customer will get a message to review(share his/her opinion) on the favorite dish
+on the aApp.
+(This he/she can do after having a taste of the meal if not a regular customer).
+
+As a reward for reviewing, the user will get the opportunity to mint NFT by connecting to their metamask account.
+
+The goal is to give back to the community as much as we can while we grow the brand to become the first on food niche on the continent.
+
+Also, we aim to publicize the use of crypto and get mass adoption of the currency together with the web3/blockchain technology.
+
 The smart contract is deployed on Polyon (Matic) Mumbai Test Network
 
 TECHNOLOGIES USED
@@ -25,6 +37,7 @@ TECHNOLOGIES USED
 
 -React js
 
+-JavaScript
 
 -OpenZeppelin library
 
