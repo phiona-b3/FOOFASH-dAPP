@@ -19,7 +19,7 @@ This is how the food delivery app looks like;
 
 The smart contract is deployed on Polyon (Matic) Mumbai Test Network
 
-Technologies used
+TECHNOLOGIES USED
 
 
 -Truffle
@@ -39,10 +39,17 @@ Technologies used
 
 -IPFS NFTStorage
 
-Resources
+RESOURCES
 
 
 -https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon
 
 
 -https://www.youtube.com/watch?v=O3BmHGNAGhM&list=PLjsf0I0Ic9-EWhT_63gCb_C4Z2usKFCzD&index=20
+
+AUTHORS
+
+1. Ndemaru Phiona Beatrice; Github-username (phiona-b3)
+
+
+2. Nathaniel Peter; Github username (Peter-Nath)
